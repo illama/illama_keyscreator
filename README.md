@@ -1,4 +1,4 @@
-Illama Keys Creator est conçu pour gérer les clés des véhicules sur un serveur FiveM sous ESX. Ce script permet une gestion avancée des véhicules en combinant la distribution des clés, la protection contre les vols, et des fonctionnalités intégrées avec Illama Garages Creator.
+Un script facile d'utilisation permettant de créer des clés via un PNJ. Fonctionnant sous ESX 1.11.4 (minimum).
 
 Fonctionnalités Principales
 - Distribution automatique des clés lors de l'achat ou du spawn d'un véhicule (Illama_garagescreator).
