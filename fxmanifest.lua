@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 name 'illama_keyscreator'
-description 'Système simple pour des cclés de véhicules pour la version 1.1X.X de ESX.'
+description 'Illama Keys Creator est conçu pour gérer les clés des véhicules sur un serveur FiveM sous ESX. Ce script permet une gestion avancée des véhicules en combinant la distribution des clés, la protection contre les vols, et des fonctionnalités intégrées avec Illama Garages Creator. Fonctionnalités Principales'
 author 'Illama'
 version '1.0.0'
 
